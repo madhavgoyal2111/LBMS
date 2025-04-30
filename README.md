@@ -1,4 +1,4 @@
-# LBMS
+# Library Management System
 Library Management System by Team Encore is a JavaFX-based application designed to simplify library operations.
 It features secure user registration, role-based access for librarians and borrowers, book management, return tracking, and a factory reset option for librarians.
 Our goal is to make library processes faster, easier, and more organized with an intuitive, reliable system.
